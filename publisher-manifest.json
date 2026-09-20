@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "0078a27730b8c6682af7db51",
+  "owner": "bunoobu",
+  "repo": "page-690214c0e6098cd6b1a662d7",
+  "title": "比特云(Bitcloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "690214c0e6098cd6b1a662d7",
+      "a": "比特云(Bitcloud)",
+      "b": "2027最新官网",
+      "entity": "比特云(Bitcloud)",
+      "brand": "比特云(Bitcloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6ce7d253f7ce11b451190827fe48a18cdfd8fb59520eb08c2e6815d9f8c07398",
+      "content": {
+        "primary_entity": "比特云(Bitcloud)",
+        "keyword1": "比特云(Bitcloud)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "比特云支持主流代理客户端，按设备系统选择对应版本，导入订阅后即可连接。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "挑选合适套餐，导入订阅开始使用比特云。",
+          "AI_CLOSING_TITLE": "开启比特云加速体验",
+          "AI_DESCRIPTION": "，专注为跨区访问、流媒体与游戏场景提供网络加速服务。套餐分基础版、旗舰版与团队版，月付价格分别约 ¥15、¥35、¥85，按年付可享更优价格。支持多设备同时在线，不同版本对应 100GB、300GB、1000GB 月度流量与 3 台、5 台、20 台设备限制，用户可按使用强度选择。",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路质量三个维度了解比特云套餐。",
+          "AI_FEATURES_TITLE": "比特云套餐特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，满足浏览与轻度流媒体，最多 3 台设备同时在线。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量，支持 5 台设备，含 IPLC 专线游戏加速优化。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量，允许多达 20 台设备，并提供 VIP 专属高带宽节点。",
+          "AI_FEATURE_TITLE_1": "入门流量够用",
+          "AI_FEATURE_TITLE_2": "进阶专线加速",
+          "AI_FEATURE_TITLE_3": "多设备团队方案",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置，按三个步骤操作。",
+          "AI_GUIDE_TITLE": "比特云使用步骤",
+          "AI_HERO_INTRO": "比特云为跨区访问、流媒体和游戏场景提供网络加速，套餐覆盖基础到团队多种流量与设备需求，订阅后可多端使用。",
+          "AI_HERO_SUBTITLE": "多设备网络加速选择",
+          "AI_HIGHLIGHT_1": "月付 ¥15 起，年付更省",
+          "AI_HIGHLIGHT_2": "100GB 至 1000GB 流量可选",
+          "AI_HIGHLIGHT_3": "3 至 20 台设备同时在线",
+          "AI_PLANS_INTRO": "基础版适合轻度用户，旗舰版平衡流量与专线加速，团队版满足多设备高流量需求，可按年付降低月均成本。",
+          "AI_PLANS_TITLE": "比特云套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量和设备数量，在基础版、旗舰版与团队版之间选择合适套餐。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端兼容情况，查看套餐对应的在线设备数限制。",
+          "AI_STEP_TEXT_3": "在所选客户端中依照文档导入订阅链接，完成配置后连接使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "比特云多端加速",
+          "AI_FAQ_TITLE": "比特云常见疑问",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "比特云套餐的流量用完了会怎样？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、旗舰版 300GB、团队版 1000GB 流量用尽后，通常需要等待下个计费周期恢复或调整套餐，具体以购买时页面说明为准。",
+          "AI_FAQ_QUESTION_2": "一个比特云账号能同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，超出数量可能无法同时在线，可按需升级套餐。",
+          "AI_FAQ_QUESTION_3": "比特云旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_ANSWER_3": "旗舰版的 IPLC 专线针对游戏加速与低延迟连接优化，适合对线路稳定性要求较高的使用场景，同时包含全节点流媒体解锁。",
+          "AI_FAQ_QUESTION_4": "比特云订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "在购买后获取订阅信息，打开所选的常用客户端，参照该客户端文档导入订阅链接或配置，即可完成节点连接。",
+          "AI_FAQ_QUESTION_5": "比特云年付与月付有什么区别？",
+          "AI_FAQ_ANSWER_5": "基础版年付 150 元、旗舰版年付 350 元、团队版年付 850 元，相比月付累计价格更低，适合长期稳定使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "2m66.cn",
+    "host": "2m66.cn"
+  },
+  "file_hashes": {
+    "index.html": "eab7a3aa4f22a660304c5dbb7e08222020481062863e6e17840a67f4708ce22b",
+    "sitemap.xml": "ecc27c70f94eca3f9b098b9b7457121029ba2f6c72059d8a6f027008bcbb9d79",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b39bfc517606bc09b4729e95b2070f2ff4a3bc16dda9efb8fbcfecc49844e993",
+    "robots.txt": "369c32ae0d95702ae1c4b5ee3968fb7b8f429fc641e6040ba11521343d7d7df3",
+    "f39bcc69afb15d338af0f8b16212cde1.txt": "50c8f890e7e7c89d8fc4493d5fa0d77949d46ade86c851a5216ca4c65d37ff12"
+  },
+  "revision": "a40618b139f407f9f09148ebcf7d2d299d41df9abc6b42130cc83960e062c9cb"
+}
